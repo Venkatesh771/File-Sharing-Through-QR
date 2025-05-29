@@ -1,8 +1,8 @@
 # File-Sharing-Through-QR
 
-![Page_1_GitHub](https://github.com/user-attachments/assets/e213451e-292f-434d-ba1c-1ce9c6493638)
+![Page_1_GitHub](https://github.com/user-attachments/assets/e11c1064-852d-4c23-ac41-593c0282dcc7)
 
-![Page_2_GitHub](https://github.com/user-attachments/assets/9c537e6e-4ff8-4b32-9e43-acb22c557a93)
+![Page_2_GitHub](https://github.com/user-attachments/assets/30930398-abef-4e36-ba14-36ae4c5d4f2f)
 
 
 
