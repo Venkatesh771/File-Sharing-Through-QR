@@ -17,7 +17,7 @@
 ---
 <h3 align="center">Tech Stack <img align="center" src="https://cdn-icons-png.flaticon.com/512/808/808598.png" alt="venkatreddy" height="25" width="25" /></h3>
 
-## Front-End <img align="center" src="https://cdn-icons-png.flaticon.com/512/9094/9094993.png" alt="venkatreddy" height="30" width="30" />
+## Front-End <img align="center" src="https://cdn-icons-png.flaticon.com/512/9094/9094993.png" alt="venkatreddy" height="25" width="25" />
 - React
 - Tailwind CSS
 - Axios
