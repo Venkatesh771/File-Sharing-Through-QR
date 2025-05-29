@@ -17,5 +17,18 @@
 ---
 <h3 align="center">Tech Stack</h3>
 
-## FrontEnd
+## Front-End
+- React
+- Tailwind CSS
+- Axios
+- QR Code Generator (`qrcode.react`)
+- Countdown Timer
+
+## Back-End
+- Java 17
+- Spring Boot
+- Spring MVC
+- File system storage
+- UUID & Token-based access
+- Expiry scheduler with `@Scheduled`
 
