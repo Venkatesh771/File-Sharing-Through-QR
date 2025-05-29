@@ -4,7 +4,7 @@
 ![Page_1_GitHub](https://github.com/user-attachments/assets/e11c1064-852d-4c23-ac41-593c0282dcc7)
 ![Page_2_GitHub](https://github.com/user-attachments/assets/30930398-abef-4e36-ba14-36ae4c5d4f2f)
 
-## Features
+## Features <img align="center" src="https://cdn-icons-png.flaticon.com/512/6954/6954401.png" alt="venkatreddy" height="40" width="50" />
 
 - Upload files up to 5GB
 - Generate one-time download links
