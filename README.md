@@ -32,3 +32,7 @@
 - UUID & Token-based access
 - Expiry scheduler with `@Scheduled`
 
+## Security Notes
+- Files are stored temporarily and deleted after access/timeout.
+- Each download link is single-use only.
+- QR links are random and tokenized.
