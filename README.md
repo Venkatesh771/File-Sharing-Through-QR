@@ -15,7 +15,7 @@
 - Mobile-friendly interface
 
 ---
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">Tech Stack <img align="center" src="https://media.istockphoto.com/id/1184810877/vector/layers-circle-icon.jpg?s=612x612&w=0&k=20&c=ArWqNcXVk6fNzLH30cgOwSO3Lr7QWSmONprQYmy3Jm0=" alt="venkatreddy" height="40" width="40" /></h2>
 
 ## Front-End
 - React
