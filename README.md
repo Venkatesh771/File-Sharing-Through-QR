@@ -5,6 +5,8 @@
 
 ![Page_1](https://github.com/user-attachments/assets/9cbb7dac-a058-4c49-aaa4-ed45be332c3f)
 
+<h3 align="center">QR Scanning Page</h3>
+
 ![Page_2](https://github.com/user-attachments/assets/bdffbe84-6031-4689-b52d-1e9eaf63a382)
 
 ![Project structure](https://github.com/user-attachments/assets/35d3efd3-477e-4bad-b795-2711bfec4774)
