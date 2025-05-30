@@ -1,7 +1,7 @@
 <h2 align="center">Secure File Sharing Through QR - (One Time Link Generator) <img align="center" src="https://cdn-icons-png.flaticon.com/512/12393/12393250.png" alt="venkatreddy" height="30" width="30" /></h2>
 <h3>A secure and simple file sharing system that uses QR codes and one-time expiring links. Built using Spring Boot(Java) for the backend and React + Tailwind CSS for the frontend.</h3>
 
-<h3 align="center">Home Page</h2>
+<h3 align="center">Home Page</h3>
 
 ![Page_1](https://github.com/user-attachments/assets/9cbb7dac-a058-4c49-aaa4-ed45be332c3f)
 
